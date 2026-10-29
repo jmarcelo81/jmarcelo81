@@ -15,6 +15,7 @@ Kubernetes · ArgoCD · Terraform · Ansible · GitHub Actions · Prometheus · 
 
 ## Certifications
 AWS Solutions Architect Associate · HashiCorp Terraform Associate · AWS Cloud Practitioner · CompTIA Cloud+ and Security+
+
 Next: AWS AI Practitioner, Developer Associate, DevOps Professional, then CKA
 
 [LinkedIn](https://www.linkedin.com/in/jmarcelo-carvalho/) · [Website](https://jmarcelocarvalho.com)
